@@ -61,7 +61,7 @@ typings/
 .next
 
 # npm build files
-dist
+#dist
 
 # parcel build files
 tmp
